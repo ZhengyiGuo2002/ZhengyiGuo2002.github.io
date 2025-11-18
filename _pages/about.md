@@ -17,7 +17,7 @@ My name is Zhengyi Guo (郭正仪) and I am a Master Student in Financial Engine
 
 
 ## News
-- I will do a spotlight presentation NeurIPS 2025 [ML×OR Workshop](https://mlxor-workshop.github.io/)
+- I will do a spotlight presentation on NeurIPS 2025 [ML×OR Workshop](https://mlxor-workshop.github.io/)
 
 ## Preprints
 <h3 style="margin-bottom:0;">
