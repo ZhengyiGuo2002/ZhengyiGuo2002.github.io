@@ -52,6 +52,8 @@ My name is Zhengyi Guo (郭正仪）and I am a Master Student in Financial Engin
 </div>
 
 
-## Interests
-- Basketball (fan of GSW from NBA), Football (fan of ManCity and England), Hiking and Working Out💪
-- Exploring different countries and cultures
+## Misc.
+- Big fan of basketball (GSW) and football (Man City & England)
+- I love working out, and hiking is my favorite outdoor activity
+- Traveling to new countries and immersing myself in different cultures always excites me
+- I listen to a lot of Eason Chan and Jay Chou
