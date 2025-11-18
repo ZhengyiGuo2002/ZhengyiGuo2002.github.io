@@ -31,8 +31,8 @@ author:
   email            : "zg2525@columbia.edu" 
 
   cv:
-  label: "CV"
-  url: "/files/CV_Zhengyi.pdf"
+    label: "CV"
+    url: "/files/CV_Zhengyi.pdf"
 
 
   # Academic websites
