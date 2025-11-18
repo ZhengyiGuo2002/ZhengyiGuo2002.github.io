@@ -51,3 +51,7 @@ My name is Zhengyi Guo (郭正仪）and I am a Master Student in Financial Engin
   </a>
 </div>
 
+
+## Interests
+- Basketball (fan of GSW from NBA), Football (fan of ManCity and England), Hiking and Working Out💪
+- Exploring different countries and cultures
