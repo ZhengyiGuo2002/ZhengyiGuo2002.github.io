@@ -11,7 +11,6 @@ My name is Zhengyi Guo (郭正仪）and I am a Master Student in Financial Engin
 
 
 ## RESEARCH INTERESTS
-
 - Mathematical Foundation of Probabilistic Machine Learning 
 - Generative AI (including Score/Flow-based Models and LLMs)
 - Mathematical Finance, Financial Engineering and DeFi
