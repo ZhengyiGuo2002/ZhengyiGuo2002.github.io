@@ -26,11 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Zhengyi Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Aspiring Student"
+  location         : "New York"
+  employer         : "Columbia University"
+  email            : "zg2525@columbia.edu" 
 
   # Academic websites
   academia         : # URL
