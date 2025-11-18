@@ -14,3 +14,23 @@ My name is Zhengyi Guo (郭正仪）and I am a Master Student in Financial Engin
 - Mathematical Foundation of Probabilistic Machine Learning 
 - Generative AI (including Score/Flow-based Models and LLMs)
 - Mathematical Finance, Financial Engineering and DeFi
+
+## NEWS
+- I will do a spotlight presentation NeurIPS 2025 [ML×OR Workshop](https://mlxor-workshop.github.io/)
+
+## Preprints
+<h3 style="margin-bottom:0;">
+  <span style="color:#8B0000; font-weight:600;">
+    Fast Policy Learning for Linear Quadratic Control with Entropy Regularization
+  </span>
+</h3>
+
+<div style="margin-top:0.2em;">
+  <em>with Xin Guo and Xinyu Li (2023)</em><br>
+  Accepted, SIAM Journal on Control and Optimization (2025)
+  &nbsp; | &nbsp;
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=XXXXX">
+    SSRN
+  </a>
+</div>
+
